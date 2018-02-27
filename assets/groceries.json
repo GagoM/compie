@@ -1,0 +1,87 @@
+{
+    "groceries":[
+    {
+        "name":"Mega",
+         "address":"Dizegoff Street 65, Tel Aviv-Yafo",
+         "lat":  32.0760805,
+         "lng": 34.77474140000004,
+         "distanceFromUser": 0,
+         "image": "https://tse3.mm.bing.net/th?id=OIP.6sd3uSpf1OPmQGGXo0UAvwD5D5&pid=15.1"
+
+    },
+    {
+        "name":"Mega",
+         "address":"Pinkas Street 48, Tel Aviv-Yafo",
+         "lat":  32.0908043,
+         "lng": 34.78896540000005,
+         "distanceFromUser": 0,
+         "image": "https://tse3.mm.bing.net/th?id=OIP.6sd3uSpf1OPmQGGXo0UAvwD5D5&pid=15.1"
+
+    },
+    { 
+        "name":"Mega",
+         "address":"HaRav Uziel 5, Bat Yam",
+         "lat":  32.022946,
+         "lng": 334.747818999999936,
+         "distanceFromUser": 0,
+         "image": "https://tse3.mm.bing.net/th?id=OIP.6sd3uSpf1OPmQGGXo0UAvwD5D5&pid=15.1"
+
+    },
+    { 
+        "name":"Rami Levi",
+         "address":"HaUman Street 15, Tel Aviv-Yafo",
+         "lat":  31.7495349,
+         "lng": 35.21045300000003,
+         "distanceFromUser": 0,
+         "image": "http://eilat.city/images/3615-7181-%D7%A8%D7%9E%D7%99-%D7%9C%D7%95%D7%99-%D7%90%D7%99%D7%9C%D7%AA-lg.jpg"
+
+    },
+    {  
+        "name":"Rami Levi",
+         "address":"HaParsa Street 3, Jerusalem",
+         "lat":  31.7509689,
+         "lng": 35.21013049999999,
+         "distanceFromUser": 0,
+         "image": "http://eilat.city/images/3615-7181-%D7%A8%D7%9E%D7%99-%D7%9C%D7%95%D7%99-%D7%90%D7%99%D7%9C%D7%AA-lg.jpg"
+
+    },
+    {   
+        "name":"Rami Levi",
+         "address":"HaMetachnen Street, Ashkelon",
+         "lat": 31.63490580000001,
+         "lng": 34.55491329999995,
+         "distanceFromUser": 0,
+         "image": "http://eilat.city/images/3615-7181-%D7%A8%D7%9E%D7%99-%D7%9C%D7%95%D7%99-%D7%90%D7%99%D7%9C%D7%AA-lg.jpg"
+
+    },
+    {   
+        "name":"Shufersal",
+         "address":"Yigal Alon Street 76, Tel Aviv-Yafo",
+         "lat": 32.0652457,
+         "lng": 34.79263270000001,
+         "distanceFromUser": 0,
+         "image": "https://tse1.mm.bing.net/th?id=OIP.s3ON5BYB-EfJyviCm-LPMQHaHa&pid=15.1"
+
+    },
+    {   
+        "name":"Shufersal",
+         "address":"Florentin 27 streety, Tel Aviv-Yafo",
+         "lat": 32.05631900000001,
+         "lng": 34.76974070000006,
+         "distanceFromUser": 0,
+         "image": "https://tse1.mm.bing.net/th?id=OIP.s3ON5BYB-EfJyviCm-LPMQHaHa&pid=15.1"
+
+    },
+    {   
+        "name":"Shufersal",
+         "address":"Jabotinsky Street, Ofakim, Israel",
+         "lat": 31.3179599,
+         "lng": 34.624975199999994,
+         "distanceFromUser": 0,
+         "image": "https://tse1.mm.bing.net/th?id=OIP.s3ON5BYB-EfJyviCm-LPMQHaHa&pid=15.1"
+
+    }
+     
+]
+
+    }
